@@ -1,0 +1,15 @@
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\hw2.1.csproj.AssemblyReference.cache
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\hw2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\hw2.1.AssemblyInfoInputs.cache
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\hw2.1.AssemblyInfo.cs
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\hw2.1.csproj.CoreCompileInputs.cache
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\bin\Debug\net6.0\hw2.1.exe
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\bin\Debug\net6.0\hw2.1.deps.json
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\bin\Debug\net6.0\hw2.1.runtimeconfig.json
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\bin\Debug\net6.0\hw2.1.dll
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\bin\Debug\net6.0\hw2.1.pdb
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\hw2.1.dll
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\refint\hw2.1.dll
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\hw2.1.pdb
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\hw2.1.genruntimeconfig.cache
+C:\Users\amerk\Desktop\GB_george\hw1\hw2.1\obj\Debug\net6.0\ref\hw2.1.dll
